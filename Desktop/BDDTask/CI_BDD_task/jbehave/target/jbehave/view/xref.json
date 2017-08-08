@@ -1,0 +1,38 @@
+{"xref": {
+  "whenMade": 1502193694650,
+  "createdBy": "JBehave",
+  "metaFilter": "+smoke2",
+  "meta": [
+    "smoke2=",
+    "importance=smoke"
+  ],
+  "stories": [
+    {
+      "description": "",
+      "narrative": "",
+      "name": "BDDTestAddNewPlaceTest.story",
+      "path": "com/example/test/stories/BDDTestAddNewPlaceTest.story",
+      "html": "com.example.test.stories.BDDTestAddNewPlaceTest.html",
+      "meta": "importance=smoke\nsmoke2=\n",
+      "scenarios": "Scenario:Bdd Test - Add New Place\nGiven the customer selects the location for adding new place\nWhen the customer requests adding new place\nAnd the customer fills in all required fields for new place with number 4\nAnd the customer submits adding new place\nThen the customer should see the new place 4 is added\n\n\n",
+      "passed": true,
+      "pending": false,
+      "started": 1502193691691,
+      "duration": 63
+    },
+    {
+      "description": "",
+      "narrative": "",
+      "name": "BDDTestAddNewPlaceTest.story",
+      "path": "com/example/test/stories/BDDTestAddNewPlaceTest.story",
+      "html": "com.example.test.stories.BDDTestAddNewPlaceTest.html",
+      "meta": "importance=smoke\nsmoke2=\n",
+      "scenarios": "Scenario:Bdd Test - Add New Place\nGiven the customer selects the location for adding new place\nWhen the customer requests adding new place\nAnd the customer fills in all required fields for new place with number 4\nAnd the customer submits adding new place\nThen the customer should see the new place 4 is added\n\n\n",
+      "passed": true,
+      "pending": false,
+      "started": 1502193694335,
+      "duration": 63
+    }
+  ],
+  "stepMatches": []
+}}

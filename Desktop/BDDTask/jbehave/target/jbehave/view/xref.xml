@@ -1,0 +1,58 @@
+<xref>
+  <whenMade>1502193694650</whenMade>
+  <createdBy>JBehave</createdBy>
+  <metaFilter>+smoke2</metaFilter>
+  <meta>
+    <string>smoke2=</string>
+    <string>importance=smoke</string>
+  </meta>
+  <stories>
+    <story>
+      <description></description>
+      <narrative></narrative>
+      <name>BDDTestAddNewPlaceTest.story</name>
+      <path>com/example/test/stories/BDDTestAddNewPlaceTest.story</path>
+      <html>com.example.test.stories.BDDTestAddNewPlaceTest.html</html>
+      <meta>importance=smoke
+smoke2=
+</meta>
+      <scenarios>Scenario:Bdd Test - Add New Place
+Given the customer selects the location for adding new place
+When the customer requests adding new place
+And the customer fills in all required fields for new place with number 4
+And the customer submits adding new place
+Then the customer should see the new place 4 is added
+
+
+</scenarios>
+      <passed>true</passed>
+      <pending>false</pending>
+      <started>1502193691691</started>
+      <duration>63</duration>
+    </story>
+    <story>
+      <description></description>
+      <narrative></narrative>
+      <name>BDDTestAddNewPlaceTest.story</name>
+      <path>com/example/test/stories/BDDTestAddNewPlaceTest.story</path>
+      <html>com.example.test.stories.BDDTestAddNewPlaceTest.html</html>
+      <meta>importance=smoke
+smoke2=
+</meta>
+      <scenarios>Scenario:Bdd Test - Add New Place
+Given the customer selects the location for adding new place
+When the customer requests adding new place
+And the customer fills in all required fields for new place with number 4
+And the customer submits adding new place
+Then the customer should see the new place 4 is added
+
+
+</scenarios>
+      <passed>true</passed>
+      <pending>false</pending>
+      <started>1502193694335</started>
+      <duration>63</duration>
+    </story>
+  </stories>
+  <stepMatches/>
+</xref>

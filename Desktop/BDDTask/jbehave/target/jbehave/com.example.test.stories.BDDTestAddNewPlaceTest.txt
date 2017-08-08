@@ -1,0 +1,44 @@
+
+(com/example/test/stories/BDDTestAddNewPlaceTest.story)
+Meta:
+@importance smoke
+@smoke2 
+
+Scenario: Bdd Test - Add New Place
+Given the customer selects the location for adding new place (PENDING)
+When the customer requests adding new place (PENDING)
+And the customer fills in all required fields for new place with number 4 (PENDING)
+And the customer submits adding new place (PENDING)
+Then the customer should see the new place 4 is added (PENDING)
+@Given("the customer selects the location for adding new place")
+@Pending
+public void givenTheCustomerSelectsTheLocationForAddingNewPlace() {
+  // PENDING
+}
+
+@When("the customer requests adding new place")
+@Pending
+public void whenTheCustomerRequestsAddingNewPlace() {
+  // PENDING
+}
+
+@When("the customer fills in all required fields for new place with number 4")
+@Pending
+public void whenTheCustomerFillsInAllRequiredFieldsForNewPlaceWithNumber4() {
+  // PENDING
+}
+
+@When("the customer submits adding new place")
+@Pending
+public void whenTheCustomerSubmitsAddingNewPlace() {
+  // PENDING
+}
+
+@Then("the customer should see the new place 4 is added")
+@Pending
+public void thenTheCustomerShouldSeeTheNewPlace4IsAdded() {
+  // PENDING
+}
+
+
+
